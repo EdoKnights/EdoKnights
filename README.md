@@ -3,6 +3,6 @@ Ciao, sono Edoardo Cavalieri e sono appassionato del mondo delle risorse umane, 
 
 Attualmente sto studiando software e linguaggi per l'analisi dei dati, per cercare lavoro come Hr Analyst.
 
-Ho creato delle repository con i project work che ho realizzato sequendo un corso di Analisi dei dati
+Ho creato delle repository con i project work che ho realizzato con SQL, PowerBI, Tableau, Excel e Access
 
 
